@@ -1,0 +1,23 @@
+
+{
+    "postRequestBody": {
+    "firstName": "Ramez",
+    "lastName": "Karim",
+    "email": "KAEND@gmail.com",
+    "dob": "1965-03-09"
+    
+    },
+    "putRequestBody": {
+        "firstName": "Mezo",
+        "lastName": "Fawzy",
+        "email": "MezoF@gmail.net",
+        "dob": "1979-12-08"
+    },
+
+    
+     "patchRequestBody":{
+        "firstName": "Yuriiiiiii",
+        "lastName": "Igooooooooor"
+    }
+    
+}
